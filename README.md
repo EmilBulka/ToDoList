@@ -1,4 +1,4 @@
-��#� �T�o�D�o�L�i�s�t�
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
